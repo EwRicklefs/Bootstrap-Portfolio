@@ -1,0 +1,32 @@
+body {
+    background-image:url('../images/crossline-dots.png')
+}
+
+.container {
+    background-color:white;
+}
+
+.navbar {
+    margin-bottom:1.5rem;
+}
+
+.indexMain {
+    height:500px;
+    padding:1.5rem;
+}
+
+#portMain {
+    padding:1.5rem;
+}
+
+.title {
+    margin-left:2rem;
+    margin-right:2rem;
+    margin-bottom:1rem;
+    border-bottom:solid 5px grey;
+    width:100%;
+}
+
+#contact {
+    Padding:1.5rem;
+}
